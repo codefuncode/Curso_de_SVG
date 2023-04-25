@@ -1,0 +1,21 @@
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
+Presentando SVG desde cero
+
+    Introducción
+    Comenzando
+    Posiciones
+    Figuras básicas
+    Paths
+    Rellenos y trazos
+    Gradientes
+    Patrones
+    Textos
+    Transformaciones básicas
+    Recortes y máscaras
+    Otros contenidos en SVG
+    Filtros y efectos
+    Fuentes SVG
+    Etiquetas de imágenes SVG
+    Herramientas de SVG
+    Otros tutoriales
